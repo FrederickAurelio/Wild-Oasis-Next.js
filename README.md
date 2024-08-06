@@ -13,5 +13,6 @@ These projects were developed following "The Ultimate React Course 2024: React, 
 - Passing Data with URL (Client to Server Component)
 - Render Server Component inside Client Component
 - Server Action
+- Cache Management, Revalidate the cache
 - Next Auth using Google OAUTH
 - New Hooks: useFormStatus, useTransition, useOptimistic
